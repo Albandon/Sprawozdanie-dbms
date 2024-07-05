@@ -1,5 +1,7 @@
-Aplikacja
-=========
+Aplikacja - sprawozdanie
+========================
+
+Adres do githuba sprawozdania: https://github.com/Albandon/Sprawozdanie-dbms 
 
 Zalożenia
 ---------

@@ -3,17 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sprawozdanie Bazy Danych's documentation!
+Sprawozdanie - Bazy danych
 ====================================================
 
 .. toctree::
    	:maxdepth: 3
    	:caption: Contents:
 
-   	Konfiguracja-bazy-danych/source/Konfiguracja-bazy-danych
    	Sprzet-dla-bazy-danych/source/Sprzet dla bazy danych
-   	MonitDiagnostyka/source/MonitDiagnostyka
+   	Konfiguracja-bazy-danych/source/Konfiguracja-bazy-danych
    	kontrola-i-konserwacja/source/kontrola-i-konserwacja
+   	MonitDiagnostyka/source/MonitDiagnostyka
    	Wydajnosc-skalowanie-i-replikacja/source/Wydajnosc-skalowanie-i-replikacja
    	Bezpieczenstwo/source/Bezpieczenstwo
    	sprawozdanie
