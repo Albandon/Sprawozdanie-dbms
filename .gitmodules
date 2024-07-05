@@ -16,3 +16,6 @@
 [submodule "source/Sprzet-dla-bazy-danych"]
 	path = source/Sprzet-dla-bazy-danych
 	url = https://github.com/Kitkacy/Sprzet-dla-bazy-danych.git
+[submodule "source/DB---Laboratoria"]
+	path = source/DB---Laboratoria
+	url = git@github.com:Albandon/DB---Laboratoria.git
